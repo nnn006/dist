@@ -1,0 +1,1 @@
+import{_ as e}from"./index.C__3lhMr.js";import{L as o,M as t,N as s}from"./vue.C2TeXnf4.js";const c={},a={class:"about"},n=s("h1",null,"This is an about page",-1),_=[n];function r(i,d){return o(),t("div",a,_)}const u=e(c,[["render",r]]);export{u as default};
